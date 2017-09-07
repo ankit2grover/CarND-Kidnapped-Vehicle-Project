@@ -12,7 +12,6 @@
 #include "helper_functions.h"
 
 struct Particle {
-
 	int id;
 	double x;
 	double y;
@@ -114,6 +113,7 @@ public:
 	const bool initialized() const {
 		return is_initialized;
 	}
+
 };
 
 
