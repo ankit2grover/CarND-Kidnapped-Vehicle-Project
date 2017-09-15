@@ -27,6 +27,7 @@ highest w 0.10787
 average w 0.10787
 ```
 You have to run Term 2 simulator and final output is shown in image below.
+
 ![png](./output.png)
 
 ### Project Steps
